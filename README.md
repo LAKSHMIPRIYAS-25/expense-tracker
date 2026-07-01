@@ -3,6 +3,15 @@
 A responsive Expense Tracker web application built using **HTML, CSS, Bootstrap, and JavaScript**. This application helps users track their income and expenses with automatic balance calculation. All transactions are saved using Local Storage, so the data remains even after refreshing the page.
 
 ---
+## 🌐 Live Demo
+
+👉 https://lakshmipriyas-25.github.io/expense-tracker/
+
+
+## 💻 Source Code
+
+👉 https://github.com/LAKSHMIPRIYAS-25/expense-tracker
+
 
 ## 🚀 Features
 
