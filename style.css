@@ -1,0 +1,54 @@
+body{
+    background:#f4f6f9;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.card{
+    border:none;
+}
+
+#balance{
+    font-size:40px;
+    font-weight:bold;
+}
+
+.list-group-item{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:10px;
+    border-radius:8px;
+}
+
+.income{
+    border-right:5px solid green;
+}
+
+.expense{
+    border-right:5px solid red;
+}
+
+.delete-btn{
+    background:red;
+    color:white;
+    border:none;
+    padding:5px 10px;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+.delete-btn:hover{
+    background:darkred;
+}
+
+@media(max-width:768px){
+
+    .container{
+        margin-top:20px;
+    }
+
+    #balance{
+        font-size:32px;
+    }
+
+}
