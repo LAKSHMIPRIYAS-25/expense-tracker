@@ -55,7 +55,8 @@ Expense-Tracker/
 ├── README.md
 
 └── images/
-     └──expense-tracker.png
+
+     ├── expense-tracker.png
 
 ---
 
