@@ -38,7 +38,7 @@ A responsive Expense Tracker web application built using **HTML, CSS, Bootstrap,
 
 ## 📸 Screenshot
 
-![Expense Tracker](expense-tracker.png)
+![Expense Tracker](Images/expense-tracker.png)
 
 ---
 
