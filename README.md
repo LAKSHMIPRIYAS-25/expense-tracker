@@ -46,17 +46,16 @@ A responsive Expense Tracker web application built using HTML, CSS, Bootstrap, a
 
 Expense-Tracker/
 
-├── index.html
+    ├── index.html
 
-├── style.css
+    ├── style.css
 
-├── script.js
+    ├── script.js
 
-├── README.md
-
-└── images/
-
-     ├── expense-tracker.png
+    ├── README.md
+    
+    └── images/
+        └── expense-tracker.png
 
 ---
 
